@@ -1,3 +1,5 @@
-https://rabadaba1.github.io/
+Strona: https://rabadaba1.github.io/
 
-https://github.com/RabaDaba1/LeakGAN
+Fork: https://github.com/RabaDaba1/LeakGAN
+
+Praca naukowa: https://paperswithcode.com/paper/long-text-generation-via-adversarial-training
