@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">Passionate and hard working student of Computer Science at AGH UST in Krakow, Poland.</h3>
+<h1 align="center">Hello there :shipit:</h1>
+<h3 align="center">I'm Kacper, passionate student of Computer Science at AGH UST in Krakow, Poland.</h3>
 
 - 🔭 I’m currently working on [Lego Bot](https://github.com/RabaDaba1/lego-bot)
 
