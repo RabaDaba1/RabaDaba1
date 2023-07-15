@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lego Bot](https://github.com/RabaDaba1/lego-bot)
 
-- 🌱 I’m currently learning **Deep learning, NLP and broadening my understanding of Machine learning and Data science**
+- 🌱 I’m currently learning **Apache Spark, Deep learning and broadening my understanding of Machine learning and Data science**
 
 - 📫 How to reach me **krabczewski@gmail.com**
 
