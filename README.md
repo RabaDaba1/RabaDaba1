@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="baby-yoda-speeder.gif" width=30 height=30 style=""></h1>
+<h1 align="center">Hello there <img src="obi-wan.gif" width=30 height=30 style=""></h1>
 
 <h3 align="center">I'm Kacper, passionate student of Computer Science at AGH UST in Krakow, Poland.</h3>
 
