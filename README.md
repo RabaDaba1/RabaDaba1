@@ -2,9 +2,9 @@
 
 <h3 align="center">I'm Kacper, passionate problem solver and student of CS at AGH UST in Krakow, Poland.</h3>
 
-- 🔭 Currently working on [Lego Bot](https://github.com/RabaDaba1/lego-bot)
+- 🔭 Currently working on [Spaceship Titanic Competition](https://www.kaggle.com/code/kacperrabczewski/spaceship-titanic-a-machine-learning-journey) and [Lego Bot](https://github.com/RabaDaba1/lego-bot)
 
-- 🌱 Currently learning **Apache Spark, Deep learning and broadening my understanding of Machine learning and Data science**
+- 🌱 Currently learning **Deep learning**
 
 - 📫 How to reach me **krabczewski@gmail.com**
 
