@@ -1,6 +1,6 @@
 <h1 align="center">Hello there <img src="obi-wan.gif" width=30 height=30 style=""></h1>
 
-<h3 align="center">I'm Kacper, full time Kaggler and student of CS at AGH UST in Krakow, Poland.</h3>
+<h3 align="center">I'm a full time Kaggler and student of CS at AGH UST in Krakow, Poland.</h3>
 
 - 🔭 Currently working on [CO2 Emissions in Rwanda](https://www.kaggle.com/code/kacperrabczewski/rwanda-co2-step-by-step-guide)
 
