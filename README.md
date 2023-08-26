@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on [CO2 Emissions in Rwanda](https://www.kaggle.com/code/kacperrabczewski/rwanda-co2-step-by-step-guide)
 
-- 🌱 Currently learning Deep learning + **a lot of Kaggle**
+- 🌱 Currently learning: Deep learning + **a lot of Kaggle**
 
 - 📫 How to reach me **krabczewski@gmail.com**
 
