@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a full time Kaggler and student of CS at AGH UST in Krakow, Poland.</h3>
 
-- 🔭 Currently working on [Witcher Elder Speech Generator](https://github.com/RabaDaba1/witcher-elder-speech-generator)
+- 🔭 Currently working on [Horse Health Competition](https://www.kaggle.com/code/kacperrabczewski/horse-health-a-beginner-friendly-guide)
 
 - 🌱 Currently learning: Deep learning + **a lot of Kaggle**
 
