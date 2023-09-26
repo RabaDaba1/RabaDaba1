@@ -1,4 +1,9 @@
-<h1 align="center">Hello there <img src="obi-wan.gif" width=30 height=30 style=""></h1>
+<div align="center">
+
+<h1>Hello there</h1> 
+<img src="obi-wan.gif" width=60 height=60>
+
+</div>
 
 <h3 align="center">I'm a full time Kaggler and student of CS at AGH UST in Krakow, Poland.</h3>
 
