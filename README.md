@@ -5,7 +5,7 @@
 
 </div>
 
-<h3 align="center">I'm a data science competition enthusiast and student of CS at AGH UST in Krakow, Poland.</h3>
+<h3 align="center">I'm a data science competition enthusiast and a CS student at AGH UST in Krakow, Poland.</h3>
 
 - 🔭 Currently working on [Horse Health Competition](https://www.kaggle.com/code/kacperrabczewski/horse-health-a-beginner-friendly-guide)
 
