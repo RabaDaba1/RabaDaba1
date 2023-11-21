@@ -7,7 +7,7 @@
 
 <h3 align="center">I'm a data science competition enthusiast and a CS student at AGH UST in Krakow, Poland.</h3>
 
-- 🔭 Currently working on [Horse Health Competition](https://www.kaggle.com/code/kacperrabczewski/horse-health-a-beginner-friendly-guide)
+- 🔭 Currently working on [CodeShare](https://github.com/RabaDaba1/CodeShare)
 
 - 🌱 Currently learning: Deep learning + **a lot of Kaggle**
 
