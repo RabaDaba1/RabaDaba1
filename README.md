@@ -9,7 +9,7 @@
 
 - 🔭 Currently working on [CodeShare](https://github.com/RabaDaba1/CodeShare)
 
-- 🌱 Currently learning: Deep learning + **a lot of Kaggle**
+- 🌱 Currently learning: Deep learning + Java
 
 - 📫 How to reach me **krabczewski@gmail.com**
 
