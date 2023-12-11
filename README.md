@@ -5,7 +5,7 @@
 
 </div>
 
-<h3 align="center">I'm a data science competition enthusiast and a CS student at AGH UST in Krakow, Poland.</h3>
+<h3 align="center">I'm a Machine Learning engineer at Reaper and a CS student at AGH UST in Krakow, Poland.</h3>
 
 - 🔭 Currently working on [CodeShare](https://github.com/RabaDaba1/CodeShare)
 
