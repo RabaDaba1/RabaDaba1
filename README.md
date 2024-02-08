@@ -7,9 +7,9 @@
 
 <h3 align="center">ML Engineer at Reaper and a CS student at AGH UST in Krakow, Poland.</h3>
 
-- 🔭 Currently working on [CodeShare](https://github.com/RabaDaba1/CodeShare)
+- 🔭 Currently working on models for phisihng detection.
 
-- 🌱 Currently learning: Deep learning + Java
+- 🌱 Currently learning: MLOps
 
 - 📫 How to reach me **krabczewski@gmail.com**
 
